@@ -25,7 +25,7 @@ Cell: writes O or X  as per player input
 
 Game: has responsibility of Board and Players - each make move and counter move
 
-Player: has responsibility of the names of 2 players and corresponding inputs of 'X' and 'O'
+Player: has responsibility of the names of a players and corresponding inputs of 'X' or 'O'
 
 Winning combinations
 
